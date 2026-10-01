@@ -62,4 +62,5 @@ int main(){
 
     b1.status(b2);
 
+    return 0;
 }
