@@ -62,4 +62,6 @@ int main()
     cout<<"Arcana: "<<social.getArcana()<<endl;
     cout<<"Rank: "<<social.getRank()<<endl;
 
+    return 0;
+
 }
