@@ -21,12 +21,12 @@ public class CombatenteDeGondor{
 	}
 
 	public void ApresentarUnidade(){
+		Console.WriteLine($"\n--- DADOS DO COMBATENTE ---");
+		Console.WriteLine($"- Nome: {nome}");
+		Console.WriteLine($"- Povo: {povo}");
+		Console.WriteLine($"- Posto: {posto}");
 		if (armamento != "Desarmado"){
-			Console.WriteLine($"\n--- DADOS DO COMBATENTE ---");
-			Console.WriteLine($"- Nome: {nome}");
-			Console.WriteLine($"- Povo: {povo}");
-			Console.WriteLine($"- Posto: {posto}");
-			Console.WriteLine($"- Armamento: {armamento}\n");
+			Console.WriteLine($"- Armamento: {armamento}");
 		}
 	}
 }
