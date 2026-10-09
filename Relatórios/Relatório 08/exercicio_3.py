@@ -49,10 +49,10 @@ if __name__ == "__main__":
     l.infiltrar("Badtz")
 
     # A composição é quando uma parte não pode existir sem o todo, no caso do meu programa, 
-	  # a persona "Arsène" só existe se existir algum líder*/ 
+	# a persona "Arsène" só existe se existir algum líder*/ 
 
-	  # Já na agregação, é quando, uma parte faz parte do todo, mas ela é independente dele. Nesse caso,
-	  # os aliados fazem parte de uma equipe criada dentro de líder, mas continuam existindo mesmo se ele não existir*/
+	# Já na agregação, é quando, uma parte faz parte do todo, mas ela é independente dele. Nesse caso,
+	# os aliados fazem parte de uma equipe criada dentro de líder, mas continuam existindo mesmo se ele não existir*/
 
     
     
