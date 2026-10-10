@@ -16,9 +16,9 @@ do exercício (exemplo: EXERCÍCIO 3).
   
 4. No **exercício 4** desenvolvi bem o código até o item 5, onde confundi composição e agregação de novo e também estava confusa com a questão
    da "lista de membros já criados". A IA me explicou esses conceitos e o que eu deveria colocar dentro da classe. Fui tirando outras dúvidas ao
-   longo da atividade e, no final, pedi ajuda para identificar um erro que estava travando a execução.
+   longo da atividade e, no final, pedi ajuda para identificar um erro.
 
 - *O que você aprendeu com aquele retorno para aplicar em problemas futuros?*
 
-  A IA foi muito útil para esclarecer a diferença entre agregação e composição, me ajudou com o uso de listas (que sempre tenho um pouco mais de
+  A IA foi muito útil para esclarecer a diferença entre agregação e composição, me ajudou com o uso de listas (que venho tendo um pouco mais de
   dificuldade), além de esclarecer os erros no código. Também é muito prático quando quero tirar dúvidas específicas no meio do exercício. 
