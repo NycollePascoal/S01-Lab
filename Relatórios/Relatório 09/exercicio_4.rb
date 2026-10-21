@@ -45,7 +45,7 @@ class Investigacao
         @envolvidos = []
     end
 
-    def registar(envolvido)
+    def registrar(envolvido)
         @envolvidos << envolvido
     end
 
@@ -71,9 +71,9 @@ s1 = SuspeitoDoCrime.new("Tom")
 s2 = SuspeitoDoCrime.new("Frajola")
 
 i1 = Investigacao.new("O Último Queijo")
-i1.registar(t1)
-i1.registar(s1)
-i1.registar(s2)
+i1.registrar(t1)
+i1.registrar(s1)
+i1.registrar(s2)
 
 i1.ouvir_todos()
 
