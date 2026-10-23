@@ -14,7 +14,7 @@ do exercício (exemplo: EXERCÍCIO 2).
 3. No **exercício 3**, fiquei em dúvida se podia usar a mesma estrutura de lista do exercício 2 (já que o enunciado explicava de uma forma
    diferente). A IA me mostrou onde eu estava errando e deu exemplos práticos de como eu poderia implementar.
   
-4. No **exercício 4**, confirmei se podia fazer a declaração da lista da mesma forma que no exercício 2 novamente e tirei uma dúvida sobre
+4. No **exercício 4**, novamente confirmei se podia fazer a declaração da lista da mesma forma que no exercício 2 e tirei uma dúvida sobre
    como criar o array no main. A IA gerou um exemplo e consegui finalizar a atividade.
 
 - *O que você aprendeu com aquele retorno para aplicar em problemas futuros?*
